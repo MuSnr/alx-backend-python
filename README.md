@@ -88,6 +88,6 @@ This project was done by [SE. Caleb Musau](https://github.com/MuSnr). Feel free 
 
 :iphone: WhatsApp [+254700129706](https://wa.me/254791072861)
 
-:email: Email [richardmiruka96@gmail.com](mailto:calebmuteti4@gmail.com)
+:email: Email [calebmuteti4@gmail.com](mailto:calebmuteti4@gmail.com)
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
