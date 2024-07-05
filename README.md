@@ -86,7 +86,7 @@ cd 0x02-python_async_comprehension
 # :man: Author and Credits.
 This project was done by [SE. Caleb Musau](https://github.com/MuSnr). Feel free to get intouch with me;
 
-:iphone: WhatsApp [+254700129706](https://wa.me/254791072861)
+:iphone: WhatsApp [+254791072861](https://wa.me/254791072861)
 
 :email: Email [calebmuteti4@gmail.com](mailto:calebmuteti4@gmail.com)
 
